@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp mkdir Ctrl+V Ctrl+J mkdir my_first_directory
+cd /tmp Ctrl+V Ctrl+J mkdir my_first_directory
